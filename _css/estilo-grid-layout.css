@@ -1,0 +1,111 @@
+
+img {
+	
+	 width: 150px;
+	 height: 150px;
+	
+}
+
+.navbar-brand img {
+	
+	width: 80px;
+	height: 80px;
+	border-radius: 10px;
+	
+}
+
+.button {
+  border: none;
+  color: #E86A92;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  
+}
+
+.button1 {
+  background-color: #E86A92;
+  color: #F7E733;
+  
+}
+
+.button1:hover {
+  background-color: #F9C80E;
+  color: #E86A92;
+}
+
+.menu {
+
+  background-color: #2B2D42;
+  
+
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+
+  color: #E86A92;
+
+}
+
+.nav-link:focus, .nav-link:hover {
+
+  color: #2B2D42;
+  background-color: #F7E733;
+
+}
+
+.nav_oferta{
+
+  background-color: #61FFE6;
+
+}
+
+.jumbotron-heading {
+
+  color: #b9d325;
+
+}
+
+.lead {
+
+  color: #2B2D42;
+
+}
+
+.img_locais {
+
+  margin: 10px;
+
+}
+
+.pesq {
+
+  background-color: #E86A92;
+
+}
+
+.pesq:hover{
+
+  background-color: #F7E733;
+  color: #61FFE6;
+
+}
+
+.comprar {
+
+  background-color: #61FFE6;
+  color: #2B2D42;
+
+}
+
+.comprar:hover {
+
+  background-color: #b9d325;
+  color: #E86A92;
+
+}
